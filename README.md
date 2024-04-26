@@ -1,6 +1,6 @@
 # Spark For Sentiment Analysis With Bert
 
-![1](images/spark_nlp.png)
+![1](images/image1.png)
 
 This notebook demonstrates sentiment analysis for restaurant review data in both English and Arabic using pre-trained BERT models with Spark NLP and PySpark.
 
