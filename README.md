@@ -51,4 +51,4 @@ This repository requires Apache Spark and Spark NLP to be installed. Refer to th
 
 
 **For more details and an end-to-end stream pipeline project, please contact me via email at [saadkhemiri123@gmail.com](mailto:saadkhemiri123@gmail.com).**
-![2](image2.jpg)
+![2](images/image2.jpg)
