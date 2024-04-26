@@ -50,5 +50,8 @@ This repository requires Apache Spark and Spark NLP to be installed. Refer to th
 | كانت الخدمة في المطعم مقبولة، لم يكن هناك شيء ملحوظًا سواء إيجابيًا أو سلبيًا                   | neutral   |
 
 
+
 **For more details and an end-to-end stream pipeline project, please contact me via email at [saadkhemiri123@gmail.com](mailto:saadkhemiri123@gmail.com).**
+
+
 ![2](images/image2.jpg)
